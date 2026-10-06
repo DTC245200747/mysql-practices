@@ -1,1 +1,1 @@
-my_databaseinformation_schemamysql
+CREATE DATABASE `my_database1`;
